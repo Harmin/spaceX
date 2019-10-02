@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+
+    <string name="retry">Retry</string>
+    <string name="launch_error">An error occurred while loading the launches</string>
+    <string name="sort_by_date">Sort By Year</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="filter_by">Filter By</string>
+</resources>
