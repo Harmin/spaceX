@@ -14,7 +14,7 @@ Bonus points:
 • Kotlin 
 
 
-#Devloper Commants as below:
+#Devloper Comments as below:
 
 In this assignment i have used a clean architecture to separate and make each layer independent of each other by using Dagger to keep everything decoupled from each other.
 
@@ -24,4 +24,4 @@ In terms of assumptions have only tried to explain and implement all the key fea
 
 In the End, the goal of the assignment and how it is implemented is to go through MVVVM, Retrofit, Dagger, LiveData updations of UI and how to separate everything and use the kotlin extensions to do few operations.
 
-Also, developed in Kotlin and no third party lobraries used.
+Also, developed in Kotlin and no third party libraries used.
