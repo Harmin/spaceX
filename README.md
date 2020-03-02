@@ -14,7 +14,7 @@ Bonus points:
 • Kotlin 
 
 
-#Devloper Comments as below:
+## Devloper Comments as below:
 
 In this assignment i have used a clean architecture to separate and make each layer independent of each other by using Dagger to keep everything decoupled from each other.
 
